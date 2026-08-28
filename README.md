@@ -34,17 +34,17 @@ Internal CRO, funnel diagnostics, competitive analysis and growth recommendation
 ## 02. Ranavat | Independent CRO Audit (End-to-End Mobile UX)
 A mobile funnel audit spanning homepage, PDP, navigation, search, cart and checkout, with 36 prioritised opportunities.
 
-[View Ranavat Audit →](./04-Ranavat-CRO-Audit/)
+[View Ranavat Audit →](./02-Ranavat-CRO-Audit/)
 
 ## 03. GIVA | Independent CRO Audit
 An outside-in conversion audit of the jewellery discovery and purchase journey, covering customer intent, friction, prioritisation and test design.
 
-[View GIVA Audit →](./02-GIVA-CRO-Audit/)
+[View GIVA Audit →](./03-GIVA-CRO-Audit/)
 
 ## 04. Neeman's | Independent CRO Audit
 A structured audit identifying conversion opportunities across the customer journey and translating findings into prioritised recommendations.
 
-[View Neeman's Audit →](./03-Neemans-CRO-Audit/)
+[View Neeman's Audit →](./04-Neemans-CRO-Audit/)
 
 ## 05. Circles.Life Singapore | Independent CRO Audit
 A conversion-focused audit of the digital customer journey and optimisation opportunities.
