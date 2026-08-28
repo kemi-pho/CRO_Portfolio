@@ -27,6 +27,6 @@ The audit combined:
 
 The audit translated observed friction points into prioritised recommendations and test concepts rather than relying solely on generic CRO best practices.
 
-[Open Full Audit →](./GIVA_CRO_Audit.pdf)
+[Open Full Audit →](./GIVA_CRO_Audit.pptx)
 
 *This is independent outside-in research based on publicly available website experiences and does not use internal company data.*
