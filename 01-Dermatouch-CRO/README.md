@@ -25,13 +25,13 @@ Evaluated competitive experiences and emerging acquisition opportunities to iden
 ## Documents
 
 ### Competitive Analysis
-[View Dermatouch Competitor Analysis →](./Dermatouch_Competitor_Analysis.pdf)
+[View Dermatouch Competitor Analysis →](./Dermatouch_Competitor_Analysis.pptx)
 
 ### CRO Recommendations
-[View Dermatouch CRO Recommendations →](./Dermatouch_CRO_Recommendations.pdf)
+[View Dermatouch CRO Recommendations →](./Dermatouch_Recommendations.docx)
 
 ### CRO Portfolio & Selected Initiatives
-[View Dermatouch CRO Portfolio →](./Dermatouch_CRO_Portfolio.pdf)
+[View Dermatouch CRO Portfolio →](./CRO_Portfolio.pptx)
 
 ---
 
