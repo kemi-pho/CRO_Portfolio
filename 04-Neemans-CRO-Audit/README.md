@@ -21,4 +21,4 @@ Each opportunity was evaluated through:
 
 The objective was not simply to identify visual or UX issues, but to connect each recommendation to the behavioural or conversion mechanism it was expected to influence.
 
-[Open Full Audit →](./Neemans_CRO_Audit.pdf)
+[Open Full Audit →](./Neemans_CRO_Audit.pptx)
