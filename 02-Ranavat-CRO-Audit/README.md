@@ -27,4 +27,4 @@ Each issue was structured around:
 
 Recommendations were then sequenced into implementation priorities based on urgency, expected impact and effort.
 
-[Open Full Audit →](./Ranavat_CRO_Audit.docx)
+[Open Full Audit →](./Ranavat_CRO_Audit.pdf)
